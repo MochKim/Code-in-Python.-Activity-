@@ -1,0 +1,8 @@
+info = {}
+
+name = input("Enter Name: ")
+age = input("Enter age: ")
+
+info[name] = age
+
+print(info)
