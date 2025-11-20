@@ -1,0 +1,2 @@
+Car= str(input("Enter your Car: "))
+print("Your Car is:", Car)
