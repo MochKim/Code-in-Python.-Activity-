@@ -1,0 +1,8 @@
+import math
+
+name = input("Enter your name: ")
+num = float(input("Enter a number: "))
+
+print(f"Kamusta buhay?, {name}!")
+print("Square root:", math.sqrt(num))
+print("Rounded:", round(num, 2))
